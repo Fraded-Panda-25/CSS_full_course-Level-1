@@ -8,10 +8,14 @@ p {
 /* button color */
 button{
     color: black;
-    background-color: red;
+    background-color: #ffff00;
 }
 
 /* backgrund color */
 body {
     background-color: black;
+}
+
+br {
+    color: pink;
 }
