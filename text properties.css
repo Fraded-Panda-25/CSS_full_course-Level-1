@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+p{
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+a{
+    color: rgb(6, 207, 83);
+    text-align: center;
+    text-decoration: red underline;  /* In this way we remove the default underline for links. */
+}
+/* Font Weight */
+#h1 {
+    font-weight: normal;
+}
+#h2 {
+    font-weight:bold ;
+}
+#h3 {
+    font-weight: lighter;
+}
+#h4 {
+    font-weight: 900;
+}
