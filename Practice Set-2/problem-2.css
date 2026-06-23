@@ -1,0 +1,16 @@
+/* Changing the background color of the body to black for better visibility. */
+body{
+    background-color:black ;
+    color: aliceblue;
+}
+/* cappilizing the the heading and set it to the center of the page */
+#heading{
+    text-align: center;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+/* changing about Rohit Sharma's font to times new roman */
+#about Rohit Sharma {
+    font-family: "Times New Roman";
+    text-align: start;
+}
