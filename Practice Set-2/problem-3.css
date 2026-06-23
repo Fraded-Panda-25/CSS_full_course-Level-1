@@ -1,0 +1,13 @@
+/* Changing the background color of the body to black for better visibility. */
+body {
+  background-color: black;
+  color: aliceblue;
+}
+/* changing the text size to 25px of the outer div*/
+#outer {
+  font-size: 25px;
+}
+/* changing the text size to 10px of the inner div */
+#inner {
+  font-size: 10px;
+}
