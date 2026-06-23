@@ -1,29 +1,29 @@
-body{
-    background-color: black;
-    color: aliceblue;
+body {
+  background-color: black;
+  color: aliceblue;
 }
-p{
-    text-align: justify;
+p {
+  text-align: justify;
 }
-h1{
-    text-align: center;
-    text-decoration: underline;
+h1 {
+  text-align: center;
+  text-decoration: underline;
 }
-a{
-    color: rgb(6, 207, 83);
-    text-align: center;
-    text-decoration: red underline;  /* In this way we remove the default underline for links. */
+a {
+  color: rgb(6, 207, 83);
+  text-align: center;
+  text-decoration: red underline; /* In this way we remove the default underline for links. */
 }
 /* Font Weight */
 #h1 {
-    font-weight: normal;
+  font-weight: normal;
 }
 #h2 {
-    font-weight:bold ;
+  font-weight: bold;
 }
 #h3 {
-    font-weight: lighter;
+  font-weight: lighter;
 }
 #h4 {
-    font-weight: 900;
+  font-weight: 900;
 }

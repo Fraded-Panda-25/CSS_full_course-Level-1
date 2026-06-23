@@ -1,37 +1,37 @@
 /* button color */
-button{
-    color: black;
-    background-color: #ffff00;
+button {
+  color: black;
+  background-color: #ffff00;
 }
 
 /* backgrund color */
 body {
-    background-color: black;
+  background-color: black;
 }
 
 br {
-    color: pink;
+  color: pink;
 }
 
 #heading1 {
-    color: #ffff00;
+  color: #ffff00;
 }
 #heading2 {
-    color: blueviolet;
+  color: blueviolet;
 }
 
-#paragraph1{
-    color: chartreuse;
+#paragraph1 {
+  color: chartreuse;
 }
-#paragraph2{
-    color: crimson;
+#paragraph2 {
+  color: crimson;
 }
-.hello1{
-    background-color: blueviolet;
+.hello1 {
+  background-color: blueviolet;
 }
-.hello2{
-    color: cadetblue;
+.hello2 {
+  color: cadetblue;
 }
-.hello3{
-    color:aquamarine
+.hello3 {
+  color: aquamarine;
 }
