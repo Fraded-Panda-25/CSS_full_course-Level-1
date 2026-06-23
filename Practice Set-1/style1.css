@@ -1,7 +1,9 @@
-#box{
-    background-color:chocolate;
+#box {
+  background-color: chocolate;
 }
 body {
-    background-color: black;
+  background-color: black;
 }
-div{background-color: aqua;}
+div {
+  background-color: aqua;
+}
